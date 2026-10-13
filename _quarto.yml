@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+
+
+website:
+  title: ""
+  page-footer: ""
+  # sidebar:
+  #   style: "docked"
+  #   search: true
+
+# Configurações globais de idioma e vocabulário
+lang: pt
+language:
+  other-links-title: "Baixar Material"
+  title-block-published: "Última atualização"
+
+
+# Configurações globais de citação e licença
+csl: assets/references/abnt.csl
+license: "CC BY-SA"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    fig-cap-location: top
+    fig-align: center
+    css: assets/css/style.css
+    link-external-newwindow: true
+    anchor-sections: false
+  uftlabfis-typst: default
+
+
+format-links: false
+resources: 
+  - "assets/"

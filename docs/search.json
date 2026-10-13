@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Título do Roteiro",
+    "section": "",
+    "text": "Apresente brevemente os conceitos físicos relacionados à atividade, destacando os princípios e fenômenos que serão investigados. Contextualize o experimento e sua relevância para a compreensão do conteúdo, podendo incluir as principais equações ou relações teóricas necessárias à análise dos resultados. O parágrafo seguinte mostra um exemplo.\nConforme Halliday; Resnick; Walker (2016), energia cinética é a energia associada ao movimento de um corpo. Quando uma força resultante realiza trabalho sobre um corpo, sua velocidade pode ser alterada e, consequentemente, sua energia cinética também se modifica. Essa relação é expressa pelo teorema trabalho–energia cinética, segundo o qual o trabalho realizado pela força resultante sobre um corpo é igual à variação de sua energia cinética. Para um corpo de massa (\\(m\\)) que se move com velocidade (\\(v\\)), a energia cinética é dada por\n\\[\nK = \\dfrac{1}{2} m v^2\n\\]\nUtilize imagens para complementar a explicação dos conceitos e procedimentos, priorizando esquemas, diagramas e fotografias que facilitem a compreensão do experimento. Toda imagem deve apresentar legenda e, quando necessário, identificar seus principais elementos. No texto, referencie a imagem utilizada.\nPor exemplo, a Figura 1 mostra o logo do Laboratório de Física.\n\n\n\nFigura 1: Logo do Labfis\n\n\n\n\n\n\n\nFonte: Labfis (2026)"
+  },
+  {
+    "objectID": "index.html#introdução",
+    "href": "index.html#introdução",
+    "title": "Título do Roteiro",
+    "section": "",
+    "text": "Apresente brevemente os conceitos físicos relacionados à atividade, destacando os princípios e fenômenos que serão investigados. Contextualize o experimento e sua relevância para a compreensão do conteúdo, podendo incluir as principais equações ou relações teóricas necessárias à análise dos resultados. O parágrafo seguinte mostra um exemplo.\nConforme Halliday; Resnick; Walker (2016), energia cinética é a energia associada ao movimento de um corpo. Quando uma força resultante realiza trabalho sobre um corpo, sua velocidade pode ser alterada e, consequentemente, sua energia cinética também se modifica. Essa relação é expressa pelo teorema trabalho–energia cinética, segundo o qual o trabalho realizado pela força resultante sobre um corpo é igual à variação de sua energia cinética. Para um corpo de massa (\\(m\\)) que se move com velocidade (\\(v\\)), a energia cinética é dada por\n\\[\nK = \\dfrac{1}{2} m v^2\n\\]\nUtilize imagens para complementar a explicação dos conceitos e procedimentos, priorizando esquemas, diagramas e fotografias que facilitem a compreensão do experimento. Toda imagem deve apresentar legenda e, quando necessário, identificar seus principais elementos. No texto, referencie a imagem utilizada.\nPor exemplo, a Figura 1 mostra o logo do Laboratório de Física.\n\n\n\nFigura 1: Logo do Labfis\n\n\n\n\n\n\n\nFonte: Labfis (2026)"
+  },
+  {
+    "objectID": "index.html#objetivos",
+    "href": "index.html#objetivos",
+    "title": "Título do Roteiro",
+    "section": "Objetivos",
+    "text": "Objetivos\nApresente de forma clara e objetiva o que se pretende alcançar com a atividade experimental, utilizando verbos de ação como\n\nInvestigar\nAnalisar\nDeterminar\nVerificar\nCompreender"
+  },
+  {
+    "objectID": "index.html#material-necessário",
+    "href": "index.html#material-necessário",
+    "title": "Título do Roteiro",
+    "section": "Material necessário",
+    "text": "Material necessário\nListe todos os materiais, equipamentos e instrumentos que serão utilizados na atividade experimental, de forma organizada e objetiva.\n\nBalança;\nCronômetro;\nPaquímetro;\nTrilho de baixo atrito."
+  },
+  {
+    "objectID": "index.html#referências",
+    "href": "index.html#referências",
+    "title": "Título do Roteiro",
+    "section": "Referências",
+    "text": "Referências\n\n\nHALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física: Mecânica. 10. ed. Rio de Janeiro: LTC, 2016. v. 1"
+  }
+]

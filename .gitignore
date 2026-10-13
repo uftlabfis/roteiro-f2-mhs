@@ -1,0 +1,9 @@
+# Cache do Quarto e Typst
+.quarto/
+*_files/
+*_cache/
+
+# Pasta de saída (se for publicar via GitHub Actions ou gh-pages branch)
+/_site/
+/.quarto/
+**/*.quarto_ipynb
