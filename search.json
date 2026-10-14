@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Movimento Harmônico Simples",
+    "section": "",
+    "text": "Considere uma massa \\(m\\) acoplada a uma mola ideal de constante elástica \\(k\\), conforme ilustrado na Figura 2. Este conjunto é habitualmente denominado sistema massa-mola. Inicialmente, o sistema encontra-se em repouso em sua posição de equilíbrio, imerso em um meio cuja resistência ao movimento é desprezível (Halliday; Resnick; Walker, 2016).\n\n\n\nFigura 1\n\n\n\n\nForça elástica em uma mola\n\n\n\n\nFonte: Labfis (2026)\n\n\n\n\nAo aplicar um deslocamento \\(x\\) em relação à posição de equilíbrio, a mola reage exercendo uma força restauradora proporcional ao deslocamento, regida pela Lei de Hooke (Halliday; Resnick; Walker, 2016):\n\\[\n  F = -k x\n\\tag{1}\\]\nem que o sinal negativo indica que a força elástica atua sempre em sentido oposto ao deslocamento. Sob a ação exclusiva dessa força restauradora, o sistema passa a executar um Movimento Harmônico Simples (MHS). Esse movimento periódico repete sua trajetória a cada intervalo de tempo constante \\(T\\), denominado período de oscilação, expressa pela relação:\n\\[\n  T = 2 \\pi \\sqrt{\\dfrac{m}{k}}\n\\tag{2}\\]\nNo Sistema Internacional de Unidades (SI), o período \\(T\\) é medido em segundos (s), a massa \\(m\\) em quilogramas (kg), o deslocamento \\(x\\) em metros (m) e a constante elástica \\(k\\) em newtons por metro (N/m). Isolando a constante \\(k\\) na Equação 2, obtém-se a relação dinâmica para a determinação da constante elástica:\n\\[\n  k_{MHS} = 4 \\pi^2 \\dfrac{m}{T^2}\n\\tag{3}\\]\nDe modo alternativo, a constante elástica pode ser determinada estaticamente por meio da Lei de Hooke (Equação 1), relacionando-se o peso aplicado \\(P = m g\\) ao deslocamento estático resultante \\(x\\):\n\\[\n  k_{Hooke} = \\dfrac{m g}{x}\n\\tag{4}\\]"
+  },
+  {
+    "objectID": "index.html#introdução",
+    "href": "index.html#introdução",
+    "title": "Movimento Harmônico Simples",
+    "section": "",
+    "text": "Considere uma massa \\(m\\) acoplada a uma mola ideal de constante elástica \\(k\\), conforme ilustrado na Figura 2. Este conjunto é habitualmente denominado sistema massa-mola. Inicialmente, o sistema encontra-se em repouso em sua posição de equilíbrio, imerso em um meio cuja resistência ao movimento é desprezível (Halliday; Resnick; Walker, 2016).\n\n\n\nFigura 1\n\n\n\n\nForça elástica em uma mola\n\n\n\n\nFonte: Labfis (2026)\n\n\n\n\nAo aplicar um deslocamento \\(x\\) em relação à posição de equilíbrio, a mola reage exercendo uma força restauradora proporcional ao deslocamento, regida pela Lei de Hooke (Halliday; Resnick; Walker, 2016):\n\\[\n  F = -k x\n\\tag{1}\\]\nem que o sinal negativo indica que a força elástica atua sempre em sentido oposto ao deslocamento. Sob a ação exclusiva dessa força restauradora, o sistema passa a executar um Movimento Harmônico Simples (MHS). Esse movimento periódico repete sua trajetória a cada intervalo de tempo constante \\(T\\), denominado período de oscilação, expressa pela relação:\n\\[\n  T = 2 \\pi \\sqrt{\\dfrac{m}{k}}\n\\tag{2}\\]\nNo Sistema Internacional de Unidades (SI), o período \\(T\\) é medido em segundos (s), a massa \\(m\\) em quilogramas (kg), o deslocamento \\(x\\) em metros (m) e a constante elástica \\(k\\) em newtons por metro (N/m). Isolando a constante \\(k\\) na Equação 2, obtém-se a relação dinâmica para a determinação da constante elástica:\n\\[\n  k_{MHS} = 4 \\pi^2 \\dfrac{m}{T^2}\n\\tag{3}\\]\nDe modo alternativo, a constante elástica pode ser determinada estaticamente por meio da Lei de Hooke (Equação 1), relacionando-se o peso aplicado \\(P = m g\\) ao deslocamento estático resultante \\(x\\):\n\\[\n  k_{Hooke} = \\dfrac{m g}{x}\n\\tag{4}\\]"
+  },
+  {
+    "objectID": "index.html#objetivos",
+    "href": "index.html#objetivos",
+    "title": "Movimento Harmônico Simples",
+    "section": "Objetivos",
+    "text": "Objetivos\n\nDeterminar a constante elástica \\(k\\) via período de oscilação do MHS (método dinâmico).\nDeterminar a constante elástica \\(k\\) via deformação estática pela Lei de Hooke (método estático).\nComparar quantitativamente as constantes elásticas obtidas por ambos os métodos."
+  },
+  {
+    "objectID": "index.html#material-necessário",
+    "href": "index.html#material-necessário",
+    "title": "Movimento Harmônico Simples",
+    "section": "Material necessário",
+    "text": "Material necessário\n\n\n\nFigura 2\n\n\n\n\nAparato experimetnal\n\n\n\n\nFonte: Labfis (2026)\n\n\n\n\n\nSuporte universal e acessórios;\nMola helicoidal;\nMassas acopláveis;\nBalança digital;\nRégua ou trena;\nCronômetro digital."
+  },
+  {
+    "objectID": "index.html#referências",
+    "href": "index.html#referências",
+    "title": "Movimento Harmônico Simples",
+    "section": "Referências",
+    "text": "Referências\n\n\nHALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física: Gravitação, Ondas e Termodinâmica. 10. ed. Rio de Janeiro: LTC, 2016. v. 2"
+  }
+]
